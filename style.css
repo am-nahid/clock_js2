@@ -140,15 +140,15 @@ select {
 .msg_ChangeWith_SetAlarm {
   position: absolute;
   top: 62%;
-  height: 12%;
+  /* height: 12%; */
   box-sizing: border-box;
   /* background-color: #5f0089; */
   background-color: #9140B5;
   color: #ffffff;
-  font-size: 27px;
+  font-size: 24px;
   font-family: Bauhaus;
   border-radius: 10px;
-  padding: 15px;
+  padding: 10px;
   width: 50%;
   /* text-align: center; */
 }
