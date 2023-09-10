@@ -245,6 +245,7 @@ width: 50%;
   font-family: Bauhaus;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .ImageChangeWithTime {
